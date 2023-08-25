@@ -42,13 +42,15 @@ def export_readme(data):
 	if data is None:
 		return
 	languages = {}
-	for k, v in data.items():
-		language = v.get('language')
+	keys = sorted(data, key=lambda x: (-data[x].get('stargazers_count', 0), data[x].get('name')))
+	for k in keys:
+		c = data[k]
+		language = c.get('language')
 		if not language:
 			continue
 		if language not in languages:
 			languages[language] = []
-		languages[language].append(v)
+		languages[language].append(c)
 	title = "Awesome-crawlers ![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)"
 	description = "A collection of awesome web crawler, spider and resources in different languages."
 	readme = []
@@ -57,13 +59,31 @@ def export_readme(data):
 	readme.append(f"**Update date: {datetime.now().strftime('%Y-%m-%d')}**\n\n")
 	readme.append("## Contents\n\n")
 	contents = []
+	# All
+	contents.append(f"## All\n")
+	contents.append(f"\n")
+	contents.append(f"| name | stars | language | update date | description |\n")
+	contents.append(f"| ---- | ----- | -------- | ----------- | ----------- |\n")
+	for k in keys:
+		c = data[k]
+		name = c.get('name', '')
+		url = c.get('url', '')
+		stars = c.get('stargazers_count', '--')
+		language = c.get('language', '--')
+		updated_at = c.get('updated_at', '--')
+		updated_at = updated_at[:10]
+		description = c.get('description', '--')
+		description = description.replace("\n", "<br/>")
+		contents.append(f"| [{name}]({url}) | {stars} | {language} | {updated_at} | {description} |\n")
+	contents.append(f"\n")
+	# Languages
 	for k in sorted(languages):
 		contents.append(f"## {k}\n")
 		contents.append(f"\n")
 		contents.append(f"| name | stars | update date | description |\n")
 		contents.append(f"| ---- | ----- | ----------- | ----------- |\n")
 		crawlers = languages[k]
-		for c in sorted(crawlers, key=lambda x: (-x.get('stargazers_count', 0), x.get('name'))):
+		for c in crawlers:
 			name = c.get('name', '')
 			url = c.get('url', '')
 			stars = c.get('stargazers_count', '--')
