@@ -60,16 +60,18 @@ def export_readme(data):
 	for k in sorted(languages):
 		contents.append(f"## {k}\n")
 		contents.append(f"\n")
-		contents.append(f"| name | stars | description |\n")
-		contents.append(f"| ---- | ----- | ----------- |\n")
+		contents.append(f"| name | stars | update date | description |\n")
+		contents.append(f"| ---- | ----- | ----------- | ----------- |\n")
 		crawlers = languages[k]
 		for c in sorted(crawlers, key=lambda x: (-x.get('stargazers_count', 0), x.get('name'))):
 			name = c.get('name', '')
 			url = c.get('url', '')
 			stars = c.get('stargazers_count', '--')
+			updated_at = c.get('updated_at', '--')
+			updated_at = updated_at[:10]
 			description = c.get('description', '--')
 			description = description.replace("\n", "<br/>")
-			contents.append(f"| [{name}]({url}) | {stars} | {description} |\n")
+			contents.append(f"| [{name}]({url}) | {stars} | {updated_at} | {description} |\n")
 		contents.append(f"\n")
 	toc = mdtoc.generate_toc(contents, start_level=2, end_level=2)
 	readme.append(f"{toc}\n\n")
@@ -145,7 +147,7 @@ def update_crawlers(force=False):
 			print(f"{k}: {url} not exists")
 			continue
 		update_time = v.get('update_time', 0)
-		if not force and update_time > 0 and abs(update_time - current_time) < one_hour_time:
+		if not force and update_time > 0 and abs(update_time - current_time) < 12 * one_hour_time:
 			update_time = datetime.fromtimestamp(update_time/1000).strftime('%Y-%m-%d %H:%M:%S')
 			print(f"{k}: {url}, update: updated at {update_time}")
 			continue
