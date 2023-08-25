@@ -5,6 +5,7 @@ import requests
 import time
 from datetime import datetime
 import os
+import mdtoc
 
 
 def get_github_token():
@@ -48,16 +49,19 @@ def export_readme(data):
 		if language not in languages:
 			languages[language] = []
 		languages[language].append(v)
-	readme = f"[TOC]\n\n"
 	title = "Awesome-crawlers ![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)"
 	description = "A collection of awesome web crawler, spider and resources in different languages."
-	readme += f"# {title}\n"
-	readme += f"{description}\n\n"
-	readme += f"**Update date: {datetime.now().strftime('%Y-%m-%d')}**\n\n"
+	readme = []
+	readme.append(f"# {title}\n\n")
+	readme.append(f"{description}\n\n")
+	readme.append(f"**Update date: {datetime.now().strftime('%Y-%m-%d')}**\n\n")
+	readme.append("## Contents\n\n")
+	contents = []
 	for k in sorted(languages):
-		readme += f"## {k}\n\n"
-		readme += f"| name | stars | description |\n"
-		readme += f"| ---- | ----- | ----------- |\n"
+		contents.append(f"## {k}\n")
+		contents.append(f"\n")
+		contents.append(f"| name | stars | description |\n")
+		contents.append(f"| ---- | ----- | ----------- |\n")
 		crawlers = languages[k]
 		for c in sorted(crawlers, key=lambda x: (-x.get('stargazers_count', 0), x.get('name'))):
 			name = c.get('name', '')
@@ -65,10 +69,14 @@ def export_readme(data):
 			stars = c.get('stargazers_count', '--')
 			description = c.get('description', '--')
 			description = description.replace("\n", "<br/>")
-			readme += f"| [{name}]({url}) | {stars} | {description} |\n"
-		readme += "\n"
+			contents.append(f"| [{name}]({url}) | {stars} | {description} |\n")
+		contents.append(f"\n")
+	toc = mdtoc.generate_toc(contents, start_level=2, end_level=2)
+	readme.append(f"{toc}\n\n")
+	readme += contents
 	with open("README.md", "w") as f:
-		f.write(readme)
+		f.writelines(readme)
+	print(f"export README.md success")
 
 
 def get_github_repo_info(url, token=None, retry=True):

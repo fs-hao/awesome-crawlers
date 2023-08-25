@@ -1,9 +1,28 @@
-[TOC]
-
 # Awesome-crawlers ![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+
 A collection of awesome web crawler, spider and resources in different languages.
 
 **Update date: 2023-08-25**
+
+## Contents
+
+- [C](#c)
+- [C#](#c-1)
+- [C++](#c-2)
+- [Erlang](#erlang)
+- [Go](#go)
+- [HTML](#html)
+- [Java](#java)
+- [JavaScript](#javascript)
+- [PHP](#php)
+- [Perl](#perl)
+- [Python](#python)
+- [R](#r)
+- [Ruby](#ruby)
+- [Rust](#rust)
+- [Scala](#scala)
+- [TypeScript](#typescript)
+
 
 ## C
 

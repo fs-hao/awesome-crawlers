@@ -7,8 +7,8 @@
     "stargazers_count": 48228,
     "created_at": "2010-02-22T02:01:14Z",
     "updated_at": "2023-08-25T06:33:33Z",
-    "Scrapy": "2023-08-25T07:29:31Z",
-    "update_time": 1692958574039
+    "Scrapy": "2023-08-25T10:41:25Z",
+    "update_time": 1692963968866
   },
   "django-dynamic-scraper": {
     "name": "django-dynamic-scraper",
@@ -19,7 +19,7 @@
     "created_at": "2011-12-16T18:57:47Z",
     "updated_at": "2023-08-25T05:41:08Z",
     "django-dynamic-scraper": "2023-08-25T08:10:09Z",
-    "update_time": 1692958578611
+    "update_time": 1692963969585
   },
   "Scrapy-Redis": {
     "name": "Scrapy-Redis",
@@ -30,7 +30,7 @@
     "created_at": "2011-08-29T04:06:23Z",
     "updated_at": "2023-08-25T07:05:55Z",
     "Scrapy-Redis": "2023-08-25T07:05:55Z",
-    "update_time": 1692958583643
+    "update_time": 1692963970555
   },
   "scrapy-cluster": {
     "name": "scrapy-cluster",
@@ -41,7 +41,7 @@
     "created_at": "2015-04-14T21:12:04Z",
     "updated_at": "2023-08-23T14:52:59Z",
     "scrapy-cluster": "2023-08-23T14:52:59Z",
-    "update_time": 1692958588383
+    "update_time": 1692963971219
   },
   "distribute_crawler": {
     "name": "distribute_crawler",
@@ -52,7 +52,7 @@
     "created_at": "2013-04-17T09:14:02Z",
     "updated_at": "2023-08-23T17:04:41Z",
     "distribute_crawler": "2023-08-23T17:04:41Z",
-    "update_time": 1692958592978
+    "update_time": 1692963971800
   },
   "pyspider": {
     "name": "pyspider",
@@ -63,7 +63,7 @@
     "created_at": "2014-02-21T19:18:47Z",
     "updated_at": "2023-08-25T06:33:08Z",
     "pyspider": "2023-08-25T06:33:08Z",
-    "update_time": 1692958597707
+    "update_time": 1692963972383
   },
   "CoCrawler": {
     "name": "CoCrawler",
@@ -74,7 +74,7 @@
     "created_at": "2016-07-15T23:46:31Z",
     "updated_at": "2023-08-03T04:30:00Z",
     "CoCrawler": "2023-08-03T04:30:00Z",
-    "update_time": 1692958602422
+    "update_time": 1692963972985
   },
   "cola": {
     "name": "cola",
@@ -85,7 +85,7 @@
     "created_at": "2013-05-15T06:41:01Z",
     "updated_at": "2023-07-29T13:21:09Z",
     "cola": "2023-07-29T13:21:09Z",
-    "update_time": 1692958607918
+    "update_time": 1692963973895
   },
   "Demiurge": {
     "name": "Demiurge",
@@ -96,7 +96,7 @@
     "created_at": "2014-04-18T19:47:29Z",
     "updated_at": "2023-06-02T08:55:19Z",
     "Demiurge": "2023-06-02T08:55:19Z",
-    "update_time": 1692958612547
+    "update_time": 1692963974491
   },
   "Scrapely": {
     "name": "Scrapely",
@@ -107,7 +107,7 @@
     "created_at": "2011-04-18T22:38:56Z",
     "updated_at": "2023-08-20T00:04:18Z",
     "Scrapely": "2023-08-20T00:04:18Z",
-    "update_time": 1692958613259
+    "update_time": 1692963975064
   },
   "feedparser": {
     "name": "feedparser",
@@ -123,7 +123,7 @@
     "created_at": "2012-08-20T15:53:36Z",
     "updated_at": "2023-08-25T03:56:18Z",
     "you-get": "2023-08-25T08:05:38Z",
-    "update_time": 1692958614077
+    "update_time": 1692963975635
   },
   "MechanicalSoup": {
     "name": "MechanicalSoup",
@@ -134,7 +134,7 @@
     "created_at": "2014-05-26T09:06:11Z",
     "updated_at": "2023-08-24T23:51:58Z",
     "MechanicalSoup": "2023-08-24T23:51:58Z",
-    "update_time": 1692958615118
+    "update_time": 1692963976632
   },
   "portia": {
     "name": "portia",
@@ -145,7 +145,7 @@
     "created_at": "2014-03-21T14:24:31Z",
     "updated_at": "2023-08-24T18:46:22Z",
     "portia": "2023-08-24T18:46:22Z",
-    "update_time": 1692958615716
+    "update_time": 1692963977264
   },
   "crawley": {
     "name": "crawley",
@@ -156,7 +156,7 @@
     "created_at": "2011-09-07T04:59:35Z",
     "updated_at": "2023-08-10T10:09:56Z",
     "crawley": "2023-08-10T10:09:56Z",
-    "update_time": 1692958616298
+    "update_time": 1692963977832
   },
   "RoboBrowser": {
     "name": "RoboBrowser",
@@ -167,7 +167,7 @@
     "created_at": "2014-02-08T21:29:49Z",
     "updated_at": "2023-08-23T15:54:52Z",
     "RoboBrowser": "2023-08-23T15:54:52Z",
-    "update_time": 1692958616891
+    "update_time": 1692963978405
   },
   "MSpider": {
     "name": "MSpider",
@@ -178,7 +178,7 @@
     "created_at": "2014-11-15T05:59:08Z",
     "updated_at": "2023-05-31T23:20:53Z",
     "MSpider": "2023-05-31T23:20:53Z",
-    "update_time": 1692958617489
+    "update_time": 1692963978981
   },
   "brownant": {
     "name": "brownant",
@@ -189,7 +189,7 @@
     "created_at": "2013-09-04T10:42:06Z",
     "updated_at": "2023-05-05T16:55:59Z",
     "brownant": "2023-05-05T16:55:59Z",
-    "update_time": 1692958618276
+    "update_time": 1692963979573
   },
   "PSpider": {
     "name": "PSpider",
@@ -200,7 +200,7 @@
     "created_at": "2016-10-15T09:26:35Z",
     "updated_at": "2023-08-24T03:03:56Z",
     "PSpider": "2023-08-24T03:03:56Z",
-    "update_time": 1692958618853
+    "update_time": 1692963980145
   },
   "Gain": {
     "name": "Gain",
@@ -211,7 +211,7 @@
     "created_at": "2017-05-31T08:56:04Z",
     "updated_at": "2023-08-11T03:29:59Z",
     "Gain": "2023-08-11T03:29:59Z",
-    "update_time": 1692958619436
+    "update_time": 1692963980734
   },
   "sukhoi": {
     "name": "sukhoi",
@@ -222,7 +222,7 @@
     "created_at": "2017-07-04T17:37:00Z",
     "updated_at": "2023-07-01T20:19:31Z",
     "sukhoi": "2023-07-01T20:19:31Z",
-    "update_time": 1692958620369
+    "update_time": 1692963981767
   },
   "spidy": {
     "name": "spidy",
@@ -233,7 +233,7 @@
     "created_at": "2017-05-19T22:25:27Z",
     "updated_at": "2023-08-03T04:33:20Z",
     "spidy": "2023-08-03T04:33:20Z",
-    "update_time": 1692958621042
+    "update_time": 1692963982381
   },
   "newspaper": {
     "name": "newspaper",
@@ -244,7 +244,7 @@
     "created_at": "2013-11-25T09:50:50Z",
     "updated_at": "2023-08-24T17:22:37Z",
     "newspaper": "2023-08-25T08:55:11Z",
-    "update_time": 1692958621661
+    "update_time": 1692963983098
   },
   "aspider": {
     "name": "aspider",
@@ -255,7 +255,7 @@
     "created_at": "2018-07-10T01:12:54Z",
     "updated_at": "2023-08-14T22:54:20Z",
     "aspider": "2023-08-14T22:54:20Z",
-    "update_time": 1692958622685
+    "update_time": 1692963984121
   },
   "ACHE Crawler": {
     "name": "ACHE Crawler",
@@ -266,14 +266,14 @@
     "created_at": "2015-01-05T06:11:43Z",
     "updated_at": "2023-08-17T00:30:39Z",
     "ACHE Crawler": "2023-08-17T00:30:39Z",
-    "update_time": 1692958623295
+    "update_time": 1692963984838
   },
   "Apache Nutch": {
     "name": "Apache Nutch",
     "url": "https://github.com/apache/nutch",
     "description": "Highly extensible, highly scalable web crawler for production environment.",
     "Apache Nutch": "2023-08-23T07:42:11Z",
-    "update_time": 1692956202150
+    "update_time": 1692963985453
   },
   "anthelion": {
     "name": "anthelion",
@@ -284,7 +284,7 @@
     "created_at": "2015-10-27T00:42:01Z",
     "updated_at": "2023-08-07T10:28:20Z",
     "anthelion": "2023-08-07T10:28:20Z",
-    "update_time": 1692958624298
+    "update_time": 1692963986477
   },
   "Crawler4j": {
     "name": "Crawler4j",
@@ -295,21 +295,21 @@
     "created_at": "2011-12-31T22:49:18Z",
     "updated_at": "2023-08-24T11:41:07Z",
     "Crawler4j": "2023-08-24T11:41:07Z",
-    "update_time": 1692958625066
+    "update_time": 1692963987091
   },
   "JSoup": {
     "name": "JSoup",
     "url": "https://github.com/jhy/jsoup",
     "description": "Scrapes, parses, manipulates and cleans HTML.",
     "JSoup": "2023-08-25T09:27:54Z",
-    "update_time": 1692956202751
+    "update_time": 1692963987648
   },
   "Open Search Server": {
     "name": "Open Search Server",
     "url": "https://github.com/jaeksoft/opensearchserver",
     "description": "A full set of search functions. Build your own indexing strategy. Parsers extract full-text data. The crawlers can index everything.",
     "Open Search Server": "2023-08-22T13:54:54Z",
-    "update_time": 1692956203373
+    "update_time": 1692963988238
   },
   "Gecco": {
     "name": "Gecco",
@@ -320,7 +320,7 @@
     "created_at": "2015-12-12T12:41:00Z",
     "updated_at": "2023-08-18T13:18:01Z",
     "Gecco": "2023-08-18T13:18:01Z",
-    "update_time": 1692958625654
+    "update_time": 1692963988801
   },
   "WebCollector": {
     "name": "WebCollector",
@@ -331,7 +331,7 @@
     "created_at": "2014-07-12T03:16:12Z",
     "updated_at": "2023-08-17T10:49:06Z",
     "WebCollector": "2023-08-17T10:49:06Z",
-    "update_time": 1692958626264
+    "update_time": 1692963989429
   },
   "Webmagic": {
     "name": "Webmagic",
@@ -342,14 +342,14 @@
     "created_at": "2013-04-23T12:57:36Z",
     "updated_at": "2023-08-24T05:46:37Z",
     "Webmagic": "2023-08-25T07:29:35Z",
-    "update_time": 1692958626864
+    "update_time": 1692963989994
   },
   "Spiderman": {
     "name": "Spiderman",
     "url": "https://github.com/TurboWay/spiderman",
     "description": "A scalable ,extensible, multi-threaded web crawler.",
     "Spiderman": "2023-08-23T05:59:18Z",
-    "update_time": 1692956203946
+    "update_time": 1692963990573
   },
   "Heritrix3": {
     "name": "Heritrix3",
@@ -360,7 +360,7 @@
     "created_at": "2011-10-21T22:00:17Z",
     "updated_at": "2023-08-25T04:58:53Z",
     "Heritrix3": "2023-08-25T04:58:53Z",
-    "update_time": 1692958627510
+    "update_time": 1692963991191
   },
   "SeimiCrawler": {
     "name": "SeimiCrawler",
@@ -371,7 +371,7 @@
     "created_at": "2015-11-06T16:06:36Z",
     "updated_at": "2023-08-24T14:24:44Z",
     "SeimiCrawler": "2023-08-24T14:24:44Z",
-    "update_time": 1692958628577
+    "update_time": 1692963991765
   },
   "StormCrawler": {
     "name": "StormCrawler",
@@ -382,7 +382,7 @@
     "created_at": "2013-04-12T14:13:30Z",
     "updated_at": "2023-08-22T06:48:46Z",
     "StormCrawler": "2023-08-22T06:48:46Z",
-    "update_time": 1692958629267
+    "update_time": 1692963992374
   },
   "Spark-Crawler": {
     "name": "Spark-Crawler",
@@ -393,7 +393,7 @@
     "created_at": "2016-05-25T23:03:37Z",
     "updated_at": "2023-08-25T02:38:43Z",
     "Spark-Crawler": "2023-08-25T02:38:43Z",
-    "update_time": 1692958629882
+    "update_time": 1692963992982
   },
   "webBee": {
     "name": "webBee",
@@ -404,7 +404,7 @@
     "created_at": "2017-03-10T03:56:21Z",
     "updated_at": "2023-07-27T08:38:13Z",
     "webBee": "2023-07-27T08:38:13Z",
-    "update_time": 1692958630893
+    "update_time": 1692963993968
   },
   "spider-flow": {
     "name": "spider-flow",
@@ -415,7 +415,7 @@
     "created_at": "2020-03-27T11:07:15Z",
     "updated_at": "2023-08-25T06:42:29Z",
     "spider-flow": "2023-08-25T06:42:29Z",
-    "update_time": 1692958631586
+    "update_time": 1692963994671
   },
   "DotnetSpider": {
     "name": "DotnetSpider",
@@ -426,7 +426,7 @@
     "created_at": "2016-03-21T03:37:32Z",
     "updated_at": "2023-08-24T07:42:02Z",
     "DotnetSpider": "2023-08-24T07:42:02Z",
-    "update_time": 1692958632550
+    "update_time": 1692963995694
   },
   "Abot": {
     "name": "Abot",
@@ -437,7 +437,7 @@
     "created_at": "2013-08-08T01:14:05Z",
     "updated_at": "2023-08-24T19:51:27Z",
     "Abot": "2023-08-25T07:32:56Z",
-    "update_time": 1692958633223
+    "update_time": 1692963996269
   },
   "Hawk": {
     "name": "Hawk",
@@ -448,7 +448,7 @@
     "created_at": "2016-04-02T07:54:41Z",
     "updated_at": "2023-08-25T05:49:43Z",
     "Hawk": "2023-08-25T05:49:43Z",
-    "update_time": 1692958633994
+    "update_time": 1692963996830
   },
   "SkyScraper": {
     "name": "SkyScraper",
@@ -459,7 +459,7 @@
     "created_at": "2012-11-09T12:11:47Z",
     "updated_at": "2023-03-05T09:34:37Z",
     "SkyScraper": "2023-03-05T09:34:37Z",
-    "update_time": 1692958634575
+    "update_time": 1692963997404
   },
   "Infinity Crawler": {
     "name": "Infinity Crawler",
@@ -470,7 +470,7 @@
     "created_at": "2018-12-28T09:49:57Z",
     "updated_at": "2023-08-15T10:43:19Z",
     "Infinity Crawler": "2023-08-15T10:43:19Z",
-    "update_time": 1692958635183
+    "update_time": 1692963998102
   },
   "scraperjs": {
     "name": "scraperjs",
@@ -481,7 +481,7 @@
     "created_at": "2014-08-05T17:35:03Z",
     "updated_at": "2023-08-15T15:07:17Z",
     "scraperjs": "2023-08-15T15:07:17Z",
-    "update_time": 1692958635782
+    "update_time": 1692963998663
   },
   "scrape-it": {
     "name": "scrape-it",
@@ -492,7 +492,7 @@
     "created_at": "2016-04-28T08:41:40Z",
     "updated_at": "2023-08-19T06:27:15Z",
     "scrape-it": "2023-08-19T06:27:15Z",
-    "update_time": 1692958636358
+    "update_time": 1692963999216
   },
   "simplecrawler": {
     "name": "simplecrawler",
@@ -503,7 +503,7 @@
     "created_at": "2011-12-14T05:05:31Z",
     "updated_at": "2023-08-24T10:57:57Z",
     "simplecrawler": "2023-08-24T10:57:57Z",
-    "update_time": 1692958637540
+    "update_time": 1692964000198
   },
   "node-crawler": {
     "name": "node-crawler",
@@ -514,7 +514,7 @@
     "created_at": "2010-11-25T11:47:19Z",
     "updated_at": "2023-08-24T21:44:23Z",
     "node-crawler": "2023-08-24T21:44:23Z",
-    "update_time": 1692958638230
+    "update_time": 1692964000812
   },
   "js-crawler": {
     "name": "js-crawler",
@@ -525,7 +525,7 @@
     "created_at": "2014-02-15T10:52:11Z",
     "updated_at": "2023-08-06T01:50:15Z",
     "js-crawler": "2023-08-06T01:50:15Z",
-    "update_time": 1692958639229
+    "update_time": 1692964001840
   },
   "webster": {
     "name": "webster",
@@ -536,7 +536,7 @@
     "created_at": "2017-11-04T14:56:37Z",
     "updated_at": "2023-08-13T06:22:29Z",
     "webster": "2023-08-13T06:22:29Z",
-    "update_time": 1692958639807
+    "update_time": 1692964002419
   },
   "x-ray": {
     "name": "x-ray",
@@ -546,8 +546,8 @@
     "stargazers_count": 5760,
     "created_at": "2015-02-05T00:34:16Z",
     "updated_at": "2023-08-19T21:37:25Z",
-    "x-ray": "2023-08-19T21:37:25Z",
-    "update_time": 1692958640808
+    "x-ray": "2023-08-25T10:40:56Z",
+    "update_time": 1692964003343
   },
   "node-osmosis": {
     "name": "node-osmosis",
@@ -558,7 +558,7 @@
     "created_at": "2015-02-07T02:17:26Z",
     "updated_at": "2023-08-23T15:52:01Z",
     "node-osmosis": "2023-08-23T15:52:01Z",
-    "update_time": 1692958641403
+    "update_time": 1692964003954
   },
   "web-scraper-chrome-extension": {
     "name": "web-scraper-chrome-extension",
@@ -569,7 +569,7 @@
     "created_at": "2013-11-23T19:14:29Z",
     "updated_at": "2023-08-22T07:52:00Z",
     "web-scraper-chrome-extension": "2023-08-22T07:52:00Z",
-    "update_time": 1692958642050
+    "update_time": 1692964004518
   },
   "supercrawler": {
     "name": "supercrawler",
@@ -580,7 +580,7 @@
     "created_at": "2016-07-17T21:08:09Z",
     "updated_at": "2023-08-09T16:00:25Z",
     "supercrawler": "2023-08-09T16:00:25Z",
-    "update_time": 1692958642633
+    "update_time": 1692964005093
   },
   "headless-chrome-crawler": {
     "name": "headless-chrome-crawler",
@@ -591,7 +591,7 @@
     "created_at": "2017-12-02T07:12:12Z",
     "updated_at": "2023-08-24T14:32:08Z",
     "headless-chrome-crawler": "2023-08-25T08:39:25Z",
-    "update_time": 1692958643306
+    "update_time": 1692964005684
   },
   "Squidwarc": {
     "name": "Squidwarc",
@@ -602,7 +602,7 @@
     "created_at": "2017-07-20T06:57:07Z",
     "updated_at": "2023-05-13T21:06:42Z",
     "Squidwarc": "2023-05-13T21:06:42Z",
-    "update_time": 1692958643985
+    "update_time": 1692964006261
   },
   "crawlee": {
     "name": "crawlee",
@@ -612,8 +612,8 @@
     "stargazers_count": 8949,
     "created_at": "2016-08-26T18:35:03Z",
     "updated_at": "2023-08-25T06:01:05Z",
-    "crawlee": "2023-08-25T08:43:19Z",
-    "update_time": 1692958644598
+    "crawlee": "2023-08-25T10:25:02Z",
+    "update_time": 1692964006855
   },
   "Goutte": {
     "name": "Goutte",
@@ -624,7 +624,7 @@
     "created_at": "2010-04-21T19:21:54Z",
     "updated_at": "2023-08-24T14:38:57Z",
     "Goutte": "2023-08-24T14:38:57Z",
-    "update_time": 1692958645221
+    "update_time": 1692964007456
   },
   "laravel-goutte": {
     "name": "laravel-goutte",
@@ -635,7 +635,7 @@
     "created_at": "2015-05-13T14:47:18Z",
     "updated_at": "2023-08-10T00:04:36Z",
     "laravel-goutte": "2023-08-10T00:04:36Z",
-    "update_time": 1692958645809
+    "update_time": 1692964008005
   },
   "dom-crawler": {
     "name": "dom-crawler",
@@ -646,7 +646,7 @@
     "created_at": "2011-02-22T18:02:15Z",
     "updated_at": "2023-08-23T15:34:28Z",
     "dom-crawler": "2023-08-23T15:34:28Z",
-    "update_time": 1692958646408
+    "update_time": 1692964008586
   },
   "QueryList": {
     "name": "QueryList",
@@ -657,7 +657,7 @@
     "created_at": "2015-12-20T15:58:35Z",
     "updated_at": "2023-08-07T09:48:55Z",
     "QueryList": "2023-08-07T09:48:55Z",
-    "update_time": 1692958647051
+    "update_time": 1692964009179
   },
   "pspider": {
     "name": "pspider",
@@ -668,7 +668,7 @@
     "created_at": "2013-03-08T08:47:47Z",
     "updated_at": "2023-05-22T11:46:26Z",
     "pspider": "2023-05-22T11:46:26Z",
-    "update_time": 1692958647646
+    "update_time": 1692964009743
   },
   "php-spider": {
     "name": "php-spider",
@@ -679,7 +679,7 @@
     "created_at": "2013-02-25T19:27:52Z",
     "updated_at": "2023-08-24T22:51:39Z",
     "php-spider": "2023-08-24T22:51:39Z",
-    "update_time": 1692958648230
+    "update_time": 1692964010326
   },
   "spatie/crawler": {
     "name": "spatie/crawler",
@@ -690,7 +690,7 @@
     "created_at": "2015-11-02T16:22:09Z",
     "updated_at": "2023-08-24T14:58:42Z",
     "spatie/crawler": "2023-08-24T14:58:42Z",
-    "update_time": 1692958648827
+    "update_time": 1692964010945
   },
   "crawlzone/crawlzone": {
     "name": "crawlzone/crawlzone",
@@ -701,7 +701,7 @@
     "created_at": "2018-11-21T01:40:22Z",
     "updated_at": "2023-08-04T15:44:32Z",
     "crawlzone/crawlzone": "2023-08-04T15:44:32Z",
-    "update_time": 1692958649404
+    "update_time": 1692964011518
   },
   "PHPScraper": {
     "name": "PHPScraper",
@@ -712,7 +712,7 @@
     "created_at": "2020-04-21T20:41:07Z",
     "updated_at": "2023-08-23T19:55:52Z",
     "PHPScraper": "2023-08-23T19:55:52Z",
-    "update_time": 1692958650119
+    "update_time": 1692964012109
   },
   "open-source-search-engine": {
     "name": "open-source-search-engine",
@@ -723,7 +723,7 @@
     "created_at": "2013-08-02T20:07:40Z",
     "updated_at": "2023-08-23T20:23:05Z",
     "open-source-search-engine": "2023-08-23T20:23:05Z",
-    "update_time": 1692958650785
+    "update_time": 1692964012664
   },
   "httrack": {
     "name": "httrack",
@@ -734,7 +734,7 @@
     "created_at": "2015-03-14T08:20:27Z",
     "updated_at": "2023-08-24T09:51:57Z",
     "httrack": "2023-08-24T09:51:57Z",
-    "update_time": 1692958651375
+    "update_time": 1692964013219
   },
   "Nokogiri": {
     "name": "Nokogiri",
@@ -745,7 +745,7 @@
     "created_at": "2008-07-14T15:34:32Z",
     "updated_at": "2023-08-24T22:34:12Z",
     "Nokogiri": "2023-08-24T22:34:12Z",
-    "update_time": 1692958651961
+    "update_time": 1692964013840
   },
   "upton": {
     "name": "upton",
@@ -756,7 +756,7 @@
     "created_at": "2013-05-29T16:41:10Z",
     "updated_at": "2023-08-20T22:51:19Z",
     "upton": "2023-08-20T22:51:19Z",
-    "update_time": 1692958653007
+    "update_time": 1692964014433
   },
   "wombat": {
     "name": "wombat",
@@ -767,7 +767,7 @@
     "created_at": "2011-11-14T05:03:24Z",
     "updated_at": "2023-08-18T02:11:57Z",
     "wombat": "2023-08-18T02:11:57Z",
-    "update_time": 1692958653603
+    "update_time": 1692964015007
   },
   "RubyRetriever": {
     "name": "RubyRetriever",
@@ -778,7 +778,7 @@
     "created_at": "2012-05-14T05:52:44Z",
     "updated_at": "2023-08-06T07:07:36Z",
     "RubyRetriever": "2023-08-06T07:07:36Z",
-    "update_time": 1692958654180
+    "update_time": 1692964015565
   },
   "Spidr": {
     "name": "Spidr",
@@ -789,7 +789,7 @@
     "created_at": "2009-03-08T10:58:50Z",
     "updated_at": "2023-07-06T07:24:09Z",
     "Spidr": "2023-07-06T07:24:09Z",
-    "update_time": 1692958655014
+    "update_time": 1692964017170
   },
   "Cobweb": {
     "name": "Cobweb",
@@ -800,7 +800,7 @@
     "created_at": "2010-11-10T12:07:41Z",
     "updated_at": "2023-01-02T06:40:23Z",
     "Cobweb": "2023-01-02T06:40:23Z",
-    "update_time": 1692958655575
+    "update_time": 1692964017735
   },
   "mechanize": {
     "name": "mechanize",
@@ -811,7 +811,7 @@
     "created_at": "2008-04-18T16:55:10Z",
     "updated_at": "2023-08-21T21:24:48Z",
     "mechanize": "2023-08-21T21:24:48Z",
-    "update_time": 1692958656167
+    "update_time": 1692964018343
   },
   "spider": {
     "name": "spider",
@@ -822,7 +822,7 @@
     "created_at": "2018-01-07T18:49:20Z",
     "updated_at": "2023-08-22T15:50:19Z",
     "spider": "2023-08-22T15:50:19Z",
-    "update_time": 1692958656758
+    "update_time": 1692964018952
   },
   "crawler": {
     "name": "crawler",
@@ -833,7 +833,7 @@
     "created_at": "2011-11-19T06:31:24Z",
     "updated_at": "2023-07-15T15:06:40Z",
     "crawler": "2023-07-15T15:06:40Z",
-    "update_time": 1692958657343
+    "update_time": 1692964019523
   },
   "rvest": {
     "name": "rvest",
@@ -844,7 +844,7 @@
     "created_at": "2014-07-23T21:22:27Z",
     "updated_at": "2023-08-23T08:28:57Z",
     "rvest": "2023-08-23T08:28:57Z",
-    "update_time": 1692958658420
+    "update_time": 1692964020486
   },
   "ebot": {
     "name": "ebot",
@@ -855,7 +855,7 @@
     "created_at": "2010-04-04T07:11:47Z",
     "updated_at": "2023-07-05T13:39:48Z",
     "ebot": "2023-07-05T13:39:48Z",
-    "update_time": 1692958659050
+    "update_time": 1692964021063
   },
   "web-scraper": {
     "name": "web-scraper",
@@ -866,7 +866,7 @@
     "created_at": "2009-01-11T21:05:25Z",
     "updated_at": "2023-05-27T18:07:39Z",
     "web-scraper": "2023-05-27T18:07:39Z",
-    "update_time": 1692958659743
+    "update_time": 1692964021657
   },
   "pholcus": {
     "name": "pholcus",
@@ -877,7 +877,7 @@
     "created_at": "2015-07-03T15:40:41Z",
     "updated_at": "2023-08-24T02:24:39Z",
     "pholcus": "2023-08-24T02:24:39Z",
-    "update_time": 1692958660754
+    "update_time": 1692964022670
   },
   "gocrawl": {
     "name": "gocrawl",
@@ -888,7 +888,7 @@
     "created_at": "2012-09-19T02:08:15Z",
     "updated_at": "2023-08-23T05:44:52Z",
     "gocrawl": "2023-08-23T05:44:52Z",
-    "update_time": 1692958661344
+    "update_time": 1692964023330
   },
   "fetchbot": {
     "name": "fetchbot",
@@ -899,7 +899,7 @@
     "created_at": "2014-01-06T12:45:18Z",
     "updated_at": "2023-08-24T19:16:21Z",
     "fetchbot": "2023-08-24T19:16:21Z",
-    "update_time": 1692958661948
+    "update_time": 1692964024040
   },
   "go_spider": {
     "name": "go_spider",
@@ -910,7 +910,7 @@
     "created_at": "2014-05-19T03:23:26Z",
     "updated_at": "2023-08-18T07:50:07Z",
     "go_spider": "2023-08-18T07:50:07Z",
-    "update_time": 1692958662526
+    "update_time": 1692964024601
   },
   "dht": {
     "name": "dht",
@@ -921,7 +921,7 @@
     "created_at": "2016-08-07T05:35:02Z",
     "updated_at": "2023-08-24T01:46:44Z",
     "dht": "2023-08-25T07:38:47Z",
-    "update_time": 1692958663139
+    "update_time": 1692964025174
   },
   "ants-go": {
     "name": "ants-go",
@@ -932,7 +932,7 @@
     "created_at": "2015-02-02T07:21:03Z",
     "updated_at": "2023-03-13T08:08:41Z",
     "ants-go": "2023-03-13T08:08:41Z",
-    "update_time": 1692958663905
+    "update_time": 1692964025732
   },
   "scrape": {
     "name": "scrape",
@@ -943,7 +943,7 @@
     "created_at": "2015-05-18T18:20:30Z",
     "updated_at": "2023-08-22T03:12:01Z",
     "scrape": "2023-08-22T03:12:01Z",
-    "update_time": 1692958664513
+    "update_time": 1692964026361
   },
   "creeper": {
     "name": "creeper",
@@ -954,7 +954,7 @@
     "created_at": "2017-02-17T03:01:50Z",
     "updated_at": "2023-08-23T06:31:10Z",
     "creeper": "2023-08-23T06:31:10Z",
-    "update_time": 1692958665112
+    "update_time": 1692964027126
   },
   "colly": {
     "name": "colly",
@@ -965,7 +965,7 @@
     "created_at": "2017-09-29T14:08:49Z",
     "updated_at": "2023-08-25T05:44:46Z",
     "colly": "2023-08-25T10:08:50Z",
-    "update_time": 1692958666112
+    "update_time": 1692964028157
   },
   "ferret": {
     "name": "ferret",
@@ -976,7 +976,7 @@
     "created_at": "2018-08-23T02:42:46Z",
     "updated_at": "2023-08-23T14:12:33Z",
     "ferret": "2023-08-23T14:12:33Z",
-    "update_time": 1692958666818
+    "update_time": 1692964028757
   },
   "Dataflow kit": {
     "name": "Dataflow kit",
@@ -987,7 +987,7 @@
     "created_at": "2017-02-09T15:08:15Z",
     "updated_at": "2023-08-24T05:07:43Z",
     "Dataflow kit": "2023-08-24T05:07:43Z",
-    "update_time": 1692958667436
+    "update_time": 1692964029403
   },
   "Hakrawler": {
     "name": "Hakrawler",
@@ -998,7 +998,7 @@
     "created_at": "2019-12-15T13:54:43Z",
     "updated_at": "2023-08-24T20:21:04Z",
     "Hakrawler": "2023-08-24T20:21:04Z",
-    "update_time": 1692958668090
+    "update_time": 1692964029973
   },
   "scrala": {
     "name": "scrala",
@@ -1009,7 +1009,7 @@
     "created_at": "2015-11-04T09:37:40Z",
     "updated_at": "2023-03-15T03:24:52Z",
     "scrala": "2023-03-15T03:24:52Z",
-    "update_time": 1692958669145
+    "update_time": 1692964030952
   },
   "ferrit": {
     "name": "ferrit",
@@ -1020,6 +1020,6 @@
     "created_at": "2014-05-25T11:46:05Z",
     "updated_at": "2022-11-02T16:12:39Z",
     "ferrit": "2022-11-02T16:12:39Z",
-    "update_time": 1692958669738
+    "update_time": 1692964031598
   }
 }
